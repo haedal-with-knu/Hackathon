@@ -1,0 +1,24 @@
+[submodule "2019_first_half/worldCup"]
+	path = 2019_first_half/worldCup
+	url = https://github.com/KNUjun/worldCup.git
+[submodule "2019_first_half/190630"]
+	path = 2019_first_half/190630
+	url = https://github.com/yangheejin/190630.git
+[submodule "2019_first_half/Lotto"]
+	path = 2019_first_half/Lotto
+	url = https://github.com/LJBang/Lotto.git
+[submodule "2019_first_half/billiardsGame"]
+	path = 2019_first_half/billiardsGame
+	url = https://github.com/Heeyeol/billiardsGame
+[submodule "2019_first_half/kangminbabo"]
+	path = 2019_first_half/kangminbabo
+	url = https://github.com/yujin0330/kangminbabo
+[submodule "2019_first_half/Egg"]
+	path = 2019_first_half/Egg
+	url = https://github.com/horkheimer8/Egg
+[submodule "2019_first_half/finding_6"]
+	path = 2019_first_half/finding_6
+	url = https://github.com/wooyebin/finding_6.git
+[submodule "2019_first_half/mannam"]
+	path = 2019_first_half/mannam
+	url = https://github.com/TaegamJung/mannam
