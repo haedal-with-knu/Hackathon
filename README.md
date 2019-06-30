@@ -10,3 +10,4 @@
 * [닭키우기 앱](https://github.com/horkheimer8/Egg)
 * [9에서 6찾기 게임](https://github.com/wooyebin/finding_6.git)
 * [만남 만들기 웹](https://github.com/TaegamJung/mannam)
+* [유용한 학교홈페이지 모음 사이트](https://github.com/ParkGunWook/web_django)

@@ -22,3 +22,6 @@
 [submodule "2019_first_half/mannam"]
 	path = 2019_first_half/mannam
 	url = https://github.com/TaegamJung/mannam
+[submodule "2019_first_half/web_django"]
+	path = 2019_first_half/web_django
+	url = https://github.com/ParkGunWook/web_django
