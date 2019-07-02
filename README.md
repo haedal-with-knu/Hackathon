@@ -11,3 +11,4 @@
 * [9에서 6찾기 게임](https://github.com/wooyebin/finding_6.git)
 * [만남 만들기 웹](https://github.com/TaegamJung/mannam)
 * [유용한 학교홈페이지 모음 사이트](https://github.com/ParkGunWook/web_django)
+* [개 품종 분류](https://github.com/ewsn1593/CNN-Dog_breed)
